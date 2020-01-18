@@ -1,0 +1,16 @@
+body{
+  background-color: #787878;
+  color: #A7A7A7;
+  display: flex;
+}
+
+.navigation{
+  background-color: #403F3F;
+  height: 50px;
+}
+
+a{
+  list-style: none;
+  text-decoration: none;
+  color: #A7A7A7;
+}
