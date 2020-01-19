@@ -1,0 +1,12 @@
+html{
+  height: 100%;
+}
+
+body{
+  background-color: #787878;
+  color: #A7A7A7;
+  display: flex;
+  margin: 0px;
+  font-family: tahoma;
+  height: 100%;
+}
