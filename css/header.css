@@ -5,9 +5,14 @@
   width: 100%;
 }
 
+menu-1{
+  display: flex;
+}
+
 a{
   list-style: none;
   text-decoration: none;
+  position: relative;
   color: #A7A7A7;
   width: 20px;
   height: auto;
