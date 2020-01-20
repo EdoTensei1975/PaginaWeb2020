@@ -1,12 +1,12 @@
-.header{
+.encabezado{
   background-color: #403F3F;
-  height: 50px;
-  display: flex;
+  height: 20%;
+  /* display: flex; */
   width: 100%;
 }
 
-menu-1{
-  display: flex;
+nav{
+  /* display: flex; */
 }
 
 a{
