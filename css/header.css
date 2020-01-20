@@ -1,12 +1,8 @@
-body{
-  background-color: #787878;
-  color: #A7A7A7;
-  display: flex;
-}
-
-.navigation{
+.header{
   background-color: #403F3F;
   height: 50px;
+  display: flex;
+  width: 100%;
 }
 
 a{
